@@ -1,0 +1,14 @@
+# NODE MODULES
+/node_modules
+
+# VSCODE
+/.vscode
+
+# BUILD
+/build
+/dist
+
+# OTHERS
+/coverage
+/custom
+/others
